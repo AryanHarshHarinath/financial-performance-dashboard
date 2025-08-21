@@ -23,7 +23,7 @@ The goal is to demonstrate skills in **data cleaning, modeling, visualization, a
 
 ## 📂 Repository Structure
 
-![Page 1]()
+![Page 1](https://github.com/AryanHarshHarinath/financial-performance-dashboard/blob/main/2025-08-21%20(1).png)
 ![Page 2](https://github.com/AryanHarshHarinath/financial-performance-dashboard/blob/main/2025-08-21%20(2).png)
 ![Page 3]()
 

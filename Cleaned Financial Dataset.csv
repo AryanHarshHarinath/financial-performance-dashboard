@@ -1,0 +1,701 @@
+﻿Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts, Sales,COGS,Profit,Date,Profit or Loss
+Government,Canada,Carretera,None,1618.5,3,20,32370,0,32370,4855.5,27514.5,41640,Profit
+Government,Germany,Carretera,None,1321,3,20,26420,0,26420,3963,22457,41640,Profit
+Midmarket,France,Carretera,None,2178,3,15,32670,0,32670,6534,26136,41791,Profit
+Midmarket,Germany,Carretera,None,888,3,15,13320,0,13320,2664,10656,41791,Profit
+Midmarket,Mexico,Carretera,None,2470,3,15,37050,0,37050,7410,29640,41791,Profit
+Government,Germany,Carretera,None,1513,3,350,529550,0,529550,4539,525011,41974,Profit
+Midmarket,Germany,Montana,None,921,5,15,13815,0,13815,4605,9210,41699,Profit
+Channel Partners,Canada,Montana,None,2518,5,12,30216,0,30216,12590,17626,41791,Profit
+Government,France,Montana,None,1899,5,20,37980,0,37980,9495,28485,41791,Profit
+Channel Partners,Germany,Montana,None,1545,5,12,18540,0,18540,7725,10815,41791,Profit
+Midmarket,Mexico,Montana,None,2470,5,15,37050,0,37050,12350,24700,41791,Profit
+Enterprise,Canada,Montana,None,2665.5,5,125,333187.5,0,333187.5,13327.5,319860,41821,Profit
+Small Business,Mexico,Montana,None,958,5,300,287400,0,287400,4790,282610,41852,Profit
+Government,Germany,Montana,None,2146,5,7,15022,0,15022,10730,4292,41883,Profit
+Enterprise,Canada,Montana,None,345,5,125,43125,0,43125,1725,41400,41548,Profit
+Midmarket,United States of America,Montana,None,615,5,15,9225,0,9225,3075,6150,41974,Profit
+Government,Canada,Paseo,None,292,10,20,5840,0,5840,2920,2920,41671,Profit
+Midmarket,Mexico,Paseo,None,974,10,15,14610,0,14610,9740,4870,41671,Profit
+Channel Partners,Canada,Paseo,None,2518,10,12,30216,0,30216,25180,5036,41791,Profit
+Government,Germany,Paseo,None,1006,10,350,352100,0,352100,10060,342040,41791,Profit
+Channel Partners,Germany,Paseo,None,367,10,12,a,0,4404,3670,734,41821,Profit
+Government,Mexico,Paseo,None,883,10,7,6181,0,6181,8830,-2649,41852,Loss
+Midmarket,France,Paseo,None,549,10,15,8235,0,8235,5490,2745,41518,Profit
+Small Business,Mexico,Paseo,None,788,10,300,236400,0,236400,7880,228520,41518,Profit
+Midmarket,Mexico,Paseo,None,2472,10,15,37080,0,37080,24720,12360,41883,Profit
+Government,United States of America,Paseo,None,1143,10,7,8001,0,8001,11430,-3429,41913,Loss
+Government,Canada,Paseo,None,1725,10,350,603750,0,603750,17250,586500,41579,Profit
+Channel Partners,United States of America,Paseo,None,912,10,12,10944,0,10944,9120,1824,41579,Profit
+Midmarket,Canada,Paseo,None,2152,10,15,32280,0,32280,21520,10760,41609,Profit
+Government,Canada,Paseo,None,1817,10,20,36340,0,36340,18170,18170,41974,Profit
+Government,Germany,Paseo,None,1513,10,350,529550,0,529550,15130,514420,41974,Profit
+Government,Mexico,Velo,None,1493,120,7,10451,0,10451,179160,-168709,41640,Loss
+Enterprise,France,Velo,None,1804,120,125,225500,0,225500,216480,9020,41671,Profit
+Channel Partners,Germany,Velo,None,2161,120,12,25932,0,25932,259320,-233388,41699,Loss
+Government,Germany,Velo,None,1006,120,350,352100,0,352100,120720,231380,41791,Profit
+Channel Partners,Germany,Velo,None,1545,120,12,18540,0,18540,185400,-166860,41791,Loss
+Enterprise,United States of America,Velo,None,2821,120,125,352625,0,352625,338520,14105,41852,Profit
+Enterprise,Canada,Velo,None,345,120,125,43125,0,43125,41400,1725,41548,Profit
+Small Business,Canada,VTT,None,2001,250,300,600300,0,600300,500250,100050,41671,Profit
+Channel Partners,Germany,VTT,None,2838,250,12,34056,0,34056,709500,-675444,41730,Loss
+Midmarket,France,VTT,None,2178,250,15,32670,0,32670,544500,-511830,41791,Loss
+Midmarket,Germany,VTT,None,888,250,15,13320,0,13320,222000,-208680,41791,Loss
+Government,France,VTT,None,1527,250,350,534450,0,534450,381750,152700,41518,Profit
+Small Business,France,VTT,None,2151,250,300,645300,0,645300,537750,107550,41883,Profit
+Government,Canada,VTT,None,1817,250,20,36340,0,36340,454250,-417910,41974,Loss
+Government,France,Amarilla,None,2750,260,350,962500,0,962500,715000,247500,41671,Profit
+Channel Partners,United States of America,Amarilla,None,1953,260,12,23436,0,23436,507780,-484344,41730,Loss
+Enterprise,Germany,Amarilla,None,4219.5,260,125,527437.5,0,527437.5,1097070,-569632.5,41730,Loss
+Government,France,Amarilla,None,1899,260,20,37980,0,37980,493740,-455760,41791,Loss
+Government,Germany,Amarilla,None,1686,260,7,11802,0,11802,438360,-426558,41821,Loss
+Channel Partners,United States of America,Amarilla,None,2141,260,12,25692,0,25692,556660,-530968,41852,Loss
+Government,United States of America,Amarilla,None,1143,260,7,8001,0,8001,297180,-289179,41913,Loss
+Midmarket,United States of America,Amarilla,None,615,260,15,9225,0,9225,159900,-150675,41974,Loss
+Government,France,Paseo,Low,3945,10,7,27615,276.15,27338.85,39450,-12111.15,41640,Loss
+Midmarket,France,Paseo,Low,2296,10,15,34440,344.4,34095.6,22960,11135.6,41671,Profit
+Government,France,Paseo,Low,1030,10,7,7210,72.1,7137.9,10300,-3162.1,41760,Loss
+Government,France,Velo,Low,639,120,7,4473,44.73,4428.27,76680,-72251.73,41944,Loss
+Government,Canada,VTT,Low,1326,250,7,9282,92.82,9189.18,331500,-322310.82,41699,Loss
+Channel Partners,United States of America,Carretera,Low,1858,3,12,22296,222.96,22073.04,5574,16499.04,41671,Profit
+Government,Mexico,Carretera,Low,1210,3,350,423500,4235,419265,3630,415635,41699,Profit
+Government,United States of America,Carretera,Low,2529,3,7,17703,177.03,17525.97,7587,9938.97,41821,Profit
+Channel Partners,Canada,Carretera,Low,1445,3,12,17340,173.4,17166.6,4335,12831.6,41883,Profit
+Enterprise,United States of America,Carretera,Low,330,3,125,41250,412.5,40837.5,990,39847.5,41518,Profit
+Channel Partners,France,Carretera,Low,2671,3,12,32052,320.52,31731.48,8013,23718.48,41883,Profit
+Channel Partners,Germany,Carretera,Low,766,3,12,9192,91.92,9100.08,2298,6802.08,41548,Profit
+Small Business,Mexico,Carretera,Low,494,3,300,148200,1482,146718,1482,145236,41548,Profit
+Government,Mexico,Carretera,Low,1397,3,350,488950,4889.5,484060.5,4191,479869.5,41913,Profit
+Government,France,Carretera,Low,2155,3,350,754250,7542.5,746707.5,6465,740242.5,41974,Profit
+Midmarket,Mexico,Montana,Low,2214,5,15,33210,332.1,32877.9,11070,21807.9,41699,Profit
+Small Business,United States of America,Montana,Low,2301,5,300,690300,6903,683397,11505,671892,41730,Profit
+Government,France,Montana,Low,1375.5,5,20,27510,275.1,27234.9,6877.5,20357.4,41821,Profit
+Government,Canada,Montana,Low,1830,5,7,12810,128.1,12681.9,9150,3531.9,41852,Profit
+Small Business,United States of America,Montana,Low,2498,5,300,749400,7494,741906,12490,729416,41518,Profit
+Enterprise,United States of America,Montana,Low,663,5,125,82875,828.75,82046.25,3315,78731.25,41548,Profit
+Midmarket,United States of America,Paseo,Low,1514,10,15,22710,227.1,22482.9,15140,7342.9,41671,Profit
+Government,United States of America,Paseo,Low,4492.5,10,7,31447.5,314.475,31133.025,44925,-13791.975,41730,Loss
+Enterprise,United States of America,Paseo,Low,727,10,125,90875,908.75,89966.25,7270,82696.25,41791,Profit
+Enterprise,France,Paseo,Low,787,10,125,98375,983.75,97391.25,7870,89521.25,41791,Profit
+Enterprise,Mexico,Paseo,Low,1823,10,125,227875,2278.75,225596.25,18230,207366.25,41821,Profit
+Midmarket,Germany,Paseo,Low,747,10,15,11205,112.05,11092.95,7470,3622.95,41883,Profit
+Channel Partners,Germany,Paseo,Low,766,10,12,9192,91.92,9100.08,7660,1440.08,41548,Profit
+Small Business,United States of America,Paseo,Low,2905,10,300,871500,8715,862785,29050,833735,41944,Profit
+Government,France,Paseo,Low,2155,10,350,754250,7542.5,746707.5,21550,725157.5,41974,Profit
+Government,France,Velo,Low,3864,120,20,77280,772.8,76507.2,463680,-387172.8,41730,Loss
+Government,Mexico,Velo,Low,362,120,7,2534,25.34,2508.66,43440,-40931.34,41760,Loss
+Enterprise,Canada,Velo,Low,923,120,125,115375,1153.75,114221.25,110760,3461.25,41852,Profit
+Enterprise,United States of America,Velo,Low,663,120,125,82875,828.75,82046.25,79560,2486.25,41548,Profit
+Government,Canada,Velo,Low,2092,120,7,14644,146.44,14497.56,251040,-236542.44,41579,Loss
+Government,Germany,VTT,Low,263,250,7,1841,18.41,1822.59,65750,-63927.41,41699,Loss
+Government,Canada,VTT,Low,943.5,250,350,330225,3302.25,326922.75,235875,91047.75,41730,Profit
+Enterprise,United States of America,VTT,Low,727,250,125,90875,908.75,89966.25,181750,-91783.75,41791,Loss
+Enterprise,France,VTT,Low,787,250,125,98375,983.75,97391.25,196750,-99358.75,41791,Loss
+Small Business,Germany,VTT,Low,986,250,300,295800,2958,292842,246500,46342,41883,Profit
+Small Business,Mexico,VTT,Low,494,250,300,148200,1482,146718,123500,23218,41548,Profit
+Government,Mexico,VTT,Low,1397,250,350,488950,4889.5,484060.5,349250,134810.5,41913,Profit
+Enterprise,France,VTT,Low,1744,250,125,218000,2180,215820,436000,-220180,41944,Loss
+Channel Partners,United States of America,Amarilla,Low,1989,260,12,23868,238.68,23629.32,517140,-493510.68,41518,Loss
+Midmarket,France,Amarilla,Low,321,260,15,4815,48.15,4766.85,83460,-78693.15,41579,Loss
+Enterprise,Canada,Carretera,Low,742.5,3,125,92812.5,1856.25,90956.25,2227.5,88728.75,41730,Profit
+Channel Partners,Canada,Carretera,Low,1295,3,12,15540,310.8,15229.2,3885,11344.2,41913,Profit
+Small Business,Germany,Carretera,Low,214,3,300,64200,1284,62916,642,62274,41548,Profit
+Government,France,Carretera,Low,2145,3,7,15015,300.3,14714.7,6435,8279.7,41579,Profit
+Government,Canada,Carretera,Low,2852,3,350,998200,19964,978236,8556,969680,41974,Profit
+Channel Partners,United States of America,Montana,Low,1142,5,12,13704,274.08,13429.92,5710,7719.92,41791,Profit
+Government,United States of America,Montana,Low,1566,5,20,31320,626.4,30693.6,7830,22863.6,41913,Profit
+Channel Partners,Mexico,Montana,Low,690,5,12,8280,165.6,8114.4,3450,4664.4,41944,Profit
+Enterprise,Mexico,Montana,Low,1660,5,125,207500,4150,203350,8300,195050,41579,Profit
+Midmarket,Canada,Paseo,Low,2363,10,15,35445,708.9,34736.1,23630,11106.1,41671,Profit
+Small Business,France,Paseo,Low,918,10,300,275400,5508,269892,9180,260712,41760,Profit
+Small Business,Germany,Paseo,Low,1728,10,300,518400,10368,508032,17280,490752,41760,Profit
+Channel Partners,United States of America,Paseo,Low,1142,10,12,13704,274.08,13429.92,11420,2009.92,41791,Profit
+Enterprise,Mexico,Paseo,Low,662,10,125,82750,1655,81095,6620,74475,41791,Profit
+Channel Partners,Canada,Paseo,Low,1295,10,12,15540,310.8,15229.2,12950,2279.2,41913,Profit
+Enterprise,Germany,Paseo,Low,809,10,125,101125,2022.5,99102.5,8090,91012.5,41548,Profit
+Enterprise,Mexico,Paseo,Low,2145,10,125,268125,5362.5,262762.5,21450,241312.5,41548,Profit
+Channel Partners,France,Paseo,Low,1785,10,12,21420,428.4,20991.6,17850,3141.6,41579,Profit
+Small Business,Canada,Paseo,Low,1916,10,300,574800,11496,563304,19160,544144,41974,Profit
+Government,Canada,Paseo,Low,2852,10,350,998200,19964,978236,28520,949716,41974,Profit
+Enterprise,Canada,Paseo,Low,2729,10,125,341125,6822.5,334302.5,27290,307012.5,41974,Profit
+Midmarket,United States of America,Paseo,Low,1925,10,15,28875,577.5,28297.5,19250,9047.5,41609,Profit
+Government,United States of America,Paseo,Low,2013,10,7,14091,281.82,13809.18,20130,-6320.82,41609,Loss
+Channel Partners,France,Paseo,Low,1055,10,12,12660,253.2,12406.8,10550,1856.8,41974,Profit
+Channel Partners,Mexico,Paseo,Low,1084,10,12,13008,260.16,12747.84,10840,1907.84,41974,Profit
+Government,United States of America,Velo,Low,1566,120,20,31320,626.4,30693.6,187920,-157226.4,41913,Loss
+Government,Germany,Velo,Low,2966,120,350,1038100,20762,1017338,355920,661418,41548,Profit
+Government,Germany,Velo,Low,2877,120,350,1006950,20139,986811,345240,641571,41913,Profit
+Enterprise,Germany,Velo,Low,809,120,125,101125,2022.5,99102.5,97080,2022.5,41548,Profit
+Enterprise,Mexico,Velo,Low,2145,120,125,268125,5362.5,262762.5,257400,5362.5,41548,Profit
+Channel Partners,France,Velo,Low,1055,120,12,12660,253.2,12406.8,126600,-114193.2,41974,Loss
+Government,Mexico,Velo,Low,544,120,20,10880,217.6,10662.4,65280,-54617.6,41609,Loss
+Channel Partners,Mexico,Velo,Low,1084,120,12,13008,260.16,12747.84,130080,-117332.16,41974,Loss
+Enterprise,Mexico,VTT,Low,662,250,125,82750,1655,81095,165500,-84405,41791,Loss
+Small Business,Germany,VTT,Low,214,250,300,64200,1284,62916,53500,9416,41548,Profit
+Government,Germany,VTT,Low,2877,250,350,1006950,20139,986811,719250,267561,41913,Profit
+Enterprise,Canada,VTT,Low,2729,250,125,341125,6822.5,334302.5,682250,-347947.5,41974,Loss
+Government,United States of America,VTT,Low,266,250,350,93100,1862,91238,66500,24738,41609,Profit
+Government,Mexico,VTT,Low,1940,250,350,679000,13580,665420,485000,180420,41609,Profit
+Small Business,Germany,Amarilla,Low,259,260,300,77700,1554,76146,67340,8806,41699,Profit
+Small Business,Mexico,Amarilla,Low,1101,260,300,330300,6606,323694,286260,37434,41699,Profit
+Enterprise,Germany,Amarilla,Low,2276,260,125,284500,5690,278810,591760,-312950,41760,Loss
+Government,Germany,Amarilla,Low,2966,260,350,1038100,20762,1017338,771160,246178,41548,Profit
+Government,United States of America,Amarilla,Low,1236,260,20,24720,494.4,24225.6,321360,-297134.4,41944,Loss
+Government,France,Amarilla,Low,941,260,20,18820,376.4,18443.6,244660,-226216.4,41944,Loss
+Small Business,Canada,Amarilla,Low,1916,260,300,574800,11496,563304,498160,65144,41974,Profit
+Enterprise,France,Carretera,Low,4243.5,3,125,530437.5,15913.125,514524.375,12730.5,501793.875,41730,Profit
+Government,Germany,Carretera,Low,2580,3,20,51600,1548,50052,7740,42312,41730,Profit
+Small Business,Germany,Carretera,Low,689,3,300,206700,6201,200499,2067,198432,41791,Profit
+Channel Partners,United States of America,Carretera,Low,1947,3,12,23364,700.92,22663.08,5841,16822.08,41883,Profit
+Channel Partners,Canada,Carretera,Low,908,3,12,10896,326.88,10569.12,2724,7845.12,41609,Profit
+Government,Germany,Montana,Low,1958,5,7,13706,411.18,13294.82,9790,3504.82,41671,Profit
+Channel Partners,France,Montana,Low,1901,5,12,22812,684.36,22127.64,9505,12622.64,41791,Profit
+Government,France,Montana,Low,544,5,7,3808,114.24,3693.76,2720,973.76,41883,Profit
+Government,Germany,Montana,Low,1797,5,350,628950,18868.5,610081.5,8985,601096.5,41518,Profit
+Enterprise,France,Montana,Low,1287,5,125,160875,4826.25,156048.75,6435,149613.75,41974,Profit
+Enterprise,Germany,Montana,Low,1706,5,125,213250,6397.5,206852.5,8530,198322.5,41974,Profit
+Small Business,France,Paseo,Low,2434.5,10,300,730350,21910.5,708439.5,24345,684094.5,41640,Profit
+Enterprise,Canada,Paseo,Low,1774,10,125,221750,6652.5,215097.5,17740,197357.5,41699,Profit
+Channel Partners,France,Paseo,Low,1901,10,12,22812,684.36,22127.64,19010,3117.64,41791,Profit
+Small Business,Germany,Paseo,Low,689,10,300,206700,6201,200499,6890,193609,41791,Profit
+Enterprise,Germany,Paseo,Low,1570,10,125,196250,5887.5,190362.5,15700,174662.5,41791,Profit
+Channel Partners,United States of America,Paseo,Low,1369.5,10,12,16434,493.02,15940.98,13695,2245.98,41821,Profit
+Enterprise,Canada,Paseo,Low,2009,10,125,251125,7533.75,243591.25,20090,223501.25,41913,Profit
+Midmarket,Germany,Paseo,Low,1945,10,15,29175,875.25,28299.75,19450,8849.75,41548,Profit
+Enterprise,France,Paseo,Low,1287,10,125,160875,4826.25,156048.75,12870,143178.75,41974,Profit
+Enterprise,Germany,Paseo,Low,1706,10,125,213250,6397.5,206852.5,17060,189792.5,41974,Profit
+Enterprise,Canada,Velo,Low,2009,120,125,251125,7533.75,243591.25,241080,2511.25,41913,Profit
+Small Business,United States of America,VTT,Low,2844,250,300,853200,25596,827604,711000,116604,41671,Profit
+Channel Partners,Mexico,VTT,Low,1916,250,12,22992,689.76,22302.24,479000,-456697.76,41730,Loss
+Enterprise,Germany,VTT,Low,1570,250,125,196250,5887.5,190362.5,392500,-202137.5,41791,Loss
+Small Business,Canada,VTT,Low,1874,250,300,562200,16866,545334,468500,76834,41852,Profit
+Government,Mexico,VTT,Low,1642,250,350,574700,17241,557459,410500,146959,41852,Profit
+Midmarket,Germany,VTT,Low,1945,250,15,29175,875.25,28299.75,486250,-457950.25,41548,Loss
+Government,Canada,Carretera,Low,831,3,20,16620,498.6,16121.4,2493,13628.4,41760,Profit
+Government,Mexico,Paseo,Low,1760,10,7,12320,369.6,11950.4,17600,-5649.6,41518,Loss
+Government,Canada,Velo,Low,3850.5,120,20,77010,2310.3,74699.7,462060,-387360.3,41730,Loss
+Channel Partners,Germany,VTT,Low,2479,250,12,29748,892.44,28855.56,619750,-590894.44,41640,Loss
+Midmarket,Mexico,Montana,Low,2031,5,15,30465,1218.6,29246.4,10155,19091.4,41913,Profit
+Midmarket,Mexico,Paseo,Low,2031,10,15,30465,1218.6,29246.4,20310,8936.4,41913,Profit
+Midmarket,France,Paseo,Low,2261,10,15,33915,1356.6,32558.4,22610,9948.4,41609,Profit
+Government,United States of America,Velo,Low,736,120,20,14720,588.8,14131.2,88320,-74188.8,41518,Loss
+Government,Canada,Carretera,Low,2851,3,7,19957,798.28,19158.72,8553,10605.72,41548,Profit
+Small Business,Germany,Carretera,Low,2021,3,300,606300,24252,582048,6063,575985,41913,Profit
+Government,United States of America,Carretera,Low,274,3,350,95900,3836,92064,822,91242,41974,Profit
+Midmarket,Canada,Montana,Low,1967,5,15,29505,1180.2,28324.8,9835,18489.8,41699,Profit
+Small Business,Germany,Montana,Low,1859,5,300,557700,22308,535392,9295,526097,41852,Profit
+Government,Canada,Montana,Low,2851,5,7,19957,798.28,19158.72,14255,4903.72,41548,Profit
+Small Business,Germany,Montana,Low,2021,5,300,606300,24252,582048,10105,571943,41913,Profit
+Enterprise,Mexico,Montana,Low,1138,5,125,142250,5690,136560,5690,130870,41974,Profit
+Government,Canada,Paseo,Low,4251,10,7,29757,1190.28,28566.72,42510,-13943.28,41640,Loss
+Enterprise,Germany,Paseo,Low,795,10,125,99375,3975,95400,7950,87450,41699,Profit
+Small Business,Germany,Paseo,Low,1414.5,10,300,424350,16974,407376,14145,393231,41730,Profit
+Small Business,United States of America,Paseo,Low,2918,10,300,875400,35016,840384,29180,811204,41760,Profit
+Government,United States of America,Paseo,Low,3450,10,350,1207500,48300,1159200,34500,1124700,41821,Profit
+Enterprise,France,Paseo,Low,2988,10,125,373500,14940,358560,29880,328680,41821,Profit
+Midmarket,Canada,Paseo,Low,218,10,15,3270,130.8,3139.2,2180,959.2,41883,Profit
+Government,Canada,Paseo,Low,2074,10,20,41480,1659.2,39820.8,20740,19080.8,41883,Profit
+Government,United States of America,Paseo,Low,1056,10,20,21120,844.8,20275.2,10560,9715.2,41883,Profit
+Midmarket,United States of America,Paseo,Low,671,10,15,10065,402.6,9662.4,6710,2952.4,41548,Profit
+Midmarket,Mexico,Paseo,Low,1514,10,15,22710,908.4,21801.6,15140,6661.6,41548,Profit
+Government,United States of America,Paseo,Low,274,10,350,95900,3836,92064,2740,89324,41974,Profit
+Enterprise,Mexico,Paseo,Low,1138,10,125,142250,5690,136560,11380,125180,41974,Profit
+Channel Partners,United States of America,Velo,Low,1465,120,12,17580,703.2,16876.8,175800,-158923.2,41699,Loss
+Government,Canada,Velo,Low,2646,120,20,52920,2116.8,50803.2,317520,-266716.8,41518,Loss
+Government,France,Velo,Low,2177,120,350,761950,30478,731472,261240,470232,41913,Profit
+Channel Partners,France,VTT,Low,866,250,12,10392,415.68,9976.32,216500,-206523.68,41760,Loss
+Government,United States of America,VTT,Low,349,250,350,122150,4886,117264,87250,30014,41518,Profit
+Government,France,VTT,Low,2177,250,350,761950,30478,731472,544250,187222,41913,Profit
+Midmarket,Mexico,VTT,Low,1514,250,15,22710,908.4,21801.6,378500,-356698.4,41548,Loss
+Government,Mexico,Amarilla,Low,1865,260,350,652750,26110,626640,484900,141740,41671,Profit
+Enterprise,Mexico,Amarilla,Low,1074,260,125,134250,5370,128880,279240,-150360,41730,Loss
+Government,Germany,Amarilla,Low,1907,260,350,667450,26698,640752,495820,144932,41883,Profit
+Midmarket,United States of America,Amarilla,Low,671,260,15,10065,402.6,9662.4,174460,-164797.6,41548,Loss
+Government,Canada,Amarilla,Low,1778,260,350,622300,24892,597408,462280,135128,41609,Profit
+Government,Germany,Montana,Medium,1159,5,7,8113,405.65,7707.35,5795,1912.35,41548,Profit
+Government,Germany,Paseo,Medium,1372,10,7,9604,480.2,9123.8,13720,-4596.2,41640,Loss
+Government,Canada,Paseo,Medium,2349,10,7,16443,822.15,15620.85,23490,-7869.15,41518,Loss
+Government,Mexico,Paseo,Medium,2689,10,7,18823,941.15,17881.85,26890,-9008.15,41913,Loss
+Channel Partners,Canada,Paseo,Medium,2431,10,12,29172,1458.6,27713.4,24310,3403.4,41974,Profit
+Channel Partners,Canada,Velo,Medium,2431,120,12,29172,1458.6,27713.4,291720,-264006.6,41974,Loss
+Government,Mexico,VTT,Medium,2689,250,7,18823,941.15,17881.85,672250,-654368.15,41913,Loss
+Government,Mexico,Amarilla,Medium,1683,260,7,11781,589.05,11191.95,437580,-426388.05,41821,Loss
+Channel Partners,Mexico,Amarilla,Medium,1123,260,12,13476,673.8,12802.2,291980,-279177.8,41852,Loss
+Government,Germany,Amarilla,Medium,1159,260,7,8113,405.65,7707.35,301340,-293632.65,41548,Loss
+Channel Partners,France,Carretera,Medium,1865,3,12,22380,1119,21261,5595,15666,41671,Profit
+Channel Partners,Germany,Carretera,Medium,1116,3,12,13392,669.6,12722.4,3348,9374.4,41671,Profit
+Government,France,Carretera,Medium,1563,3,20,31260,1563,29697,4689,25008,41760,Profit
+Small Business,United States of America,Carretera,Medium,991,3,300,297300,14865,282435,2973,279462,41791,Profit
+Government,Germany,Carretera,Medium,1016,3,7,7112,355.6,6756.4,3048,3708.4,41579,Profit
+Midmarket,Mexico,Carretera,Medium,2791,3,15,41865,2093.25,39771.75,8373,31398.75,41944,Profit
+Government,United States of America,Carretera,Medium,570,3,7,3990,199.5,3790.5,1710,2080.5,41974,Profit
+Government,France,Carretera,Medium,2487,3,7,17409,870.45,16538.55,7461,9077.55,41974,Profit
+Government,France,Montana,Medium,1384.5,5,350,484575,24228.75,460346.25,6922.5,453423.75,41640,Profit
+Enterprise,United States of America,Montana,Medium,3627,5,125,453375,22668.75,430706.25,18135,412571.25,41821,Profit
+Government,Mexico,Montana,Medium,720,5,350,252000,12600,239400,3600,235800,41518,Profit
+Channel Partners,Germany,Montana,Medium,2342,5,12,28104,1405.2,26698.8,11710,14988.8,41944,Profit
+Small Business,Mexico,Montana,Medium,1100,5,300,330000,16500,313500,5500,308000,41609,Profit
+Government,France,Paseo,Medium,1303,10,20,26060,1303,24757,13030,11727,41671,Profit
+Enterprise,United States of America,Paseo,Medium,2992,10,125,374000,18700,355300,29920,325380,41699,Profit
+Enterprise,France,Paseo,Medium,2385,10,125,298125,14906.25,283218.75,23850,259368.75,41699,Profit
+Small Business,Mexico,Paseo,Medium,1607,10,300,482100,24105,457995,16070,441925,41730,Profit
+Government,United States of America,Paseo,Medium,2327,10,7,16289,814.45,15474.55,23270,-7795.45,41760,Loss
+Small Business,United States of America,Paseo,Medium,991,10,300,297300,14865,282435,9910,272525,41791,Profit
+Government,United States of America,Paseo,Medium,602,10,350,210700,10535,200165,6020,194145,41791,Profit
+Midmarket,France,Paseo,Medium,2620,10,15,39300,1965,37335,26200,11135,41883,Profit
+Government,Canada,Paseo,Medium,1228,10,350,429800,21490,408310,12280,396030,41548,Profit
+Government,Canada,Paseo,Medium,1389,10,20,27780,1389,26391,13890,12501,41548,Profit
+Enterprise,United States of America,Paseo,Medium,861,10,125,107625,5381.25,102243.75,8610,93633.75,41913,Profit
+Enterprise,France,Paseo,Medium,704,10,125,88000,4400,83600,7040,76560,41548,Profit
+Government,Canada,Paseo,Medium,1802,10,20,36040,1802,34238,18020,16218,41609,Profit
+Government,United States of America,Paseo,Medium,2663,10,20,53260,2663,50597,26630,23967,41974,Profit
+Government,France,Paseo,Medium,2136,10,7,14952,747.6,14204.4,21360,-7155.6,41609,Loss
+Midmarket,Germany,Paseo,Medium,2116,10,15,31740,1587,30153,21160,8993,41609,Profit
+Midmarket,United States of America,Velo,Medium,555,120,15,8325,416.25,7908.75,66600,-58691.25,41640,Loss
+Midmarket,Mexico,Velo,Medium,2861,120,15,42915,2145.75,40769.25,343320,-302550.75,41640,Loss
+Enterprise,Germany,Velo,Medium,807,120,125,100875,5043.75,95831.25,96840,-1008.75,41671,Loss
+Government,United States of America,Velo,Medium,602,120,350,210700,10535,200165,72240,127925,41791,Profit
+Government,United States of America,Velo,Medium,2832,120,20,56640,2832,53808,339840,-286032,41852,Loss
+Government,France,Velo,Medium,1579,120,20,31580,1579,30001,189480,-159479,41852,Loss
+Enterprise,United States of America,Velo,Medium,861,120,125,107625,5381.25,102243.75,103320,-1076.25,41913,Loss
+Enterprise,France,Velo,Medium,704,120,125,88000,4400,83600,84480,-880,41548,Loss
+Government,France,Velo,Medium,1033,120,20,20660,1033,19627,123960,-104333,41609,Loss
+Small Business,Germany,Velo,Medium,1250,120,300,375000,18750,356250,150000,206250,41974,Profit
+Government,Canada,VTT,Medium,1389,250,20,27780,1389,26391,347250,-320859,41548,Loss
+Government,United States of America,VTT,Medium,1265,250,20,25300,1265,24035,316250,-292215,41579,Loss
+Government,Germany,VTT,Medium,2297,250,20,45940,2297,43643,574250,-530607,41579,Loss
+Government,United States of America,VTT,Medium,2663,250,20,53260,2663,50597,665750,-615153,41974,Loss
+Government,United States of America,VTT,Medium,570,250,7,3990,199.5,3790.5,142500,-138709.5,41974,Loss
+Government,France,VTT,Medium,2487,250,7,17409,870.45,16538.55,621750,-605211.45,41974,Loss
+Government,Germany,Amarilla,Medium,1350,260,350,472500,23625,448875,351000,97875,41671,Profit
+Government,Canada,Amarilla,Medium,552,260,350,193200,9660,183540,143520,40020,41852,Profit
+Government,Canada,Amarilla,Medium,1228,260,350,429800,21490,408310,319280,89030,41548,Profit
+Small Business,Germany,Amarilla,Medium,1250,260,300,375000,18750,356250,325000,31250,41974,Profit
+Midmarket,France,Paseo,Medium,3801,10,15,57015,3420.9,53594.1,38010,15584.1,41730,Profit
+Government,United States of America,Carretera,Medium,1117.5,3,20,22350,1341,21009,3352.5,17656.5,41640,Profit
+Midmarket,Canada,Carretera,Medium,2844,3,15,42660,2559.6,40100.4,8532,31568.4,41791,Profit
+Channel Partners,Mexico,Carretera,Medium,562,3,12,6744,404.64,6339.36,1686,4653.36,41883,Profit
+Channel Partners,Canada,Carretera,Medium,2299,3,12,27588,1655.28,25932.72,6897,19035.72,41548,Profit
+Midmarket,United States of America,Carretera,Medium,2030,3,15,30450,1827,28623,6090,22533,41944,Profit
+Government,United States of America,Carretera,Medium,263,3,7,1841,110.46,1730.54,789,941.54,41579,Profit
+Enterprise,Germany,Carretera,Medium,887,3,125,110875,6652.5,104222.5,2661,101561.5,41609,Profit
+Government,Mexico,Montana,Medium,980,5,350,343000,20580,322420,4900,317520,41730,Profit
+Government,Germany,Montana,Medium,1460,5,350,511000,30660,480340,7300,473040,41760,Profit
+Government,France,Montana,Medium,1403,5,7,9821,589.26,9231.74,7015,2216.74,41548,Profit
+Channel Partners,United States of America,Montana,Medium,2723,5,12,32676,1960.56,30715.44,13615,17100.44,41944,Profit
+Government,France,Paseo,Medium,1496,10,350,523600,31416,492184,14960,477224,41791,Profit
+Channel Partners,Canada,Paseo,Medium,2299,10,12,27588,1655.28,25932.72,22990,2942.72,41548,Profit
+Government,United States of America,Paseo,Medium,727,10,350,254450,15267,239183,7270,231913,41548,Profit
+Enterprise,Canada,Velo,Medium,952,120,125,119000,7140,111860,114240,-2380,41671,Loss
+Enterprise,United States of America,Velo,Medium,2755,120,125,344375,20662.5,323712.5,330600,-6887.5,41671,Loss
+Midmarket,Germany,Velo,Medium,1530,120,15,22950,1377,21573,183600,-162027,41760,Loss
+Government,France,Velo,Medium,1496,120,350,523600,31416,492184,179520,312664,41791,Profit
+Government,Mexico,Velo,Medium,1498,120,7,10486,629.16,9856.84,179760,-169903.16,41791,Loss
+Small Business,France,Velo,Medium,1221,120,300,366300,21978,344322,146520,197802,41548,Profit
+Government,France,Velo,Medium,2076,120,350,726600,43596,683004,249120,433884,41548,Profit
+Midmarket,Canada,VTT,Medium,2844,250,15,42660,2559.6,40100.4,711000,-670899.6,41791,Loss
+Government,Mexico,VTT,Medium,1498,250,7,10486,629.16,9856.84,374500,-364643.16,41791,Loss
+Small Business,France,VTT,Medium,1221,250,300,366300,21978,344322,305250,39072,41548,Profit
+Government,Mexico,VTT,Medium,1123,250,20,22460,1347.6,21112.4,280750,-259637.6,41579,Loss
+Small Business,Canada,VTT,Medium,2436,250,300,730800,43848,686952,609000,77952,41609,Profit
+Enterprise,France,Amarilla,Medium,1987.5,260,125,248437.5,14906.25,233531.25,516750,-283218.75,41640,Loss
+Government,Mexico,Amarilla,Medium,1679,260,350,587650,35259,552391,436540,115851,41883,Profit
+Government,United States of America,Amarilla,Medium,727,260,350,254450,15267,239183,189020,50163,41548,Profit
+Government,France,Amarilla,Medium,1403,260,7,9821,589.26,9231.74,364780,-355548.26,41548,Loss
+Government,France,Amarilla,Medium,2076,260,350,726600,43596,683004,539760,143244,41548,Profit
+Government,France,Montana,Medium,1757,5,20,35140,2108.4,33031.6,8785,24246.6,41548,Profit
+Midmarket,United States of America,Paseo,Medium,2198,10,15,32970,1978.2,30991.8,21980,9011.8,41852,Profit
+Midmarket,Germany,Paseo,Medium,1743,10,15,26145,1568.7,24576.3,17430,7146.3,41852,Profit
+Midmarket,United States of America,Paseo,Medium,1153,10,15,17295,1037.7,16257.3,11530,4727.3,41913,Profit
+Government,France,Paseo,Medium,1757,10,20,35140,2108.4,33031.6,17570,15461.6,41548,Profit
+Government,Germany,Velo,Medium,1001,120,20,20020,1201.2,18818.8,120120,-101301.2,41852,Loss
+Government,Mexico,Velo,Medium,1333,120,7,9331,559.86,8771.14,159960,-151188.86,41944,Loss
+Midmarket,United States of America,VTT,Medium,1153,250,15,17295,1037.7,16257.3,288250,-271992.7,41913,Loss
+Channel Partners,Mexico,Carretera,Medium,727,3,12,8724,610.68,8113.32,2181,5932.32,41671,Profit
+Channel Partners,Canada,Carretera,Medium,1884,3,12,22608,1582.56,21025.44,5652,15373.44,41852,Profit
+Government,Mexico,Carretera,Medium,1834,3,20,36680,2567.6,34112.4,5502,28610.4,41518,Profit
+Channel Partners,Mexico,Montana,Medium,2340,5,12,28080,1965.6,26114.4,11700,14414.4,41640,Profit
+Channel Partners,France,Montana,Medium,2342,5,12,28104,1967.28,26136.72,11710,14426.72,41944,Profit
+Government,France,Paseo,Medium,1031,10,7,7217,505.19,6711.81,10310,-3598.19,41518,Loss
+Midmarket,Canada,Velo,Medium,1262,120,15,18930,1325.1,17604.9,151440,-133835.1,41760,Loss
+Government,Canada,Velo,Medium,1135,120,7,7945,556.15,7388.85,136200,-128811.15,41791,Loss
+Government,United States of America,Velo,Medium,547,120,7,3829,268.03,3560.97,65640,-62079.03,41944,Loss
+Government,Canada,Velo,Medium,1582,120,7,11074,775.18,10298.82,189840,-179541.18,41974,Loss
+Channel Partners,France,VTT,Medium,1738.5,250,12,20862,1460.34,19401.66,434625,-415223.34,41730,Loss
+Channel Partners,Germany,VTT,Medium,2215,250,12,26580,1860.6,24719.4,553750,-529030.6,41518,Loss
+Government,Canada,VTT,Medium,1582,250,7,11074,775.18,10298.82,395500,-385201.18,41974,Loss
+Government,Canada,Amarilla,Medium,1135,260,7,7945,556.15,7388.85,295100,-287711.15,41791,Loss
+Government,United States of America,Carretera,Medium,1761,3,350,616350,43144.5,573205.5,5283,567922.5,41699,Profit
+Small Business,France,Carretera,Medium,448,3,300,134400,9408,124992,1344,123648,41791,Profit
+Small Business,France,Carretera,Medium,2181,3,300,654300,45801,608499,6543,601956,41913,Profit
+Government,France,Montana,Medium,1976,5,20,39520,2766.4,36753.6,9880,26873.6,41913,Profit
+Small Business,France,Montana,Medium,2181,5,300,654300,45801,608499,10905,597594,41913,Profit
+Enterprise,Germany,Montana,Medium,2500,5,125,312500,21875,290625,12500,278125,41579,Profit
+Small Business,Canada,Paseo,Medium,1702,10,300,510600,35742,474858,17020,457838,41760,Profit
+Small Business,France,Paseo,Medium,448,10,300,134400,9408,124992,4480,120512,41791,Profit
+Enterprise,Germany,Paseo,Medium,3513,10,125,439125,30738.75,408386.25,35130,373256.25,41821,Profit
+Midmarket,France,Paseo,Medium,2101,10,15,31515,2206.05,29308.95,21010,8298.95,41852,Profit
+Midmarket,United States of America,Paseo,Medium,2931,10,15,43965,3077.55,40887.45,29310,11577.45,41518,Profit
+Government,France,Paseo,Medium,1535,10,20,30700,2149,28551,15350,13201,41883,Profit
+Small Business,Germany,Paseo,Medium,1123,10,300,336900,23583,313317,11230,302087,41518,Profit
+Small Business,Canada,Paseo,Medium,1404,10,300,421200,29484,391716,14040,377676,41579,Profit
+Channel Partners,Mexico,Paseo,Medium,2763,10,12,33156,2320.92,30835.08,27630,3205.08,41579,Profit
+Government,Germany,Paseo,Medium,2125,10,7,14875,1041.25,13833.75,21250,-7416.25,41609,Loss
+Small Business,France,Velo,Medium,1659,120,300,497700,34839,462861,199080,263781,41821,Profit
+Government,Mexico,Velo,Medium,609,120,20,12180,852.6,11327.4,73080,-61752.6,41852,Loss
+Enterprise,Germany,Velo,Medium,2087,120,125,260875,18261.25,242613.75,250440,-7826.25,41883,Loss
+Government,France,Velo,Medium,1976,120,20,39520,2766.4,36753.6,237120,-200366.4,41913,Loss
+Government,United States of America,Velo,Medium,1421,120,20,28420,1989.4,26430.6,170520,-144089.4,41609,Loss
+Small Business,United States of America,Velo,Medium,1372,120,300,411600,28812,382788,164640,218148,41974,Profit
+Government,Germany,Velo,Medium,588,120,20,11760,823.2,10936.8,70560,-59623.2,41609,Loss
+Channel Partners,Canada,VTT,Medium,3244.5,250,12,38934,2725.38,36208.62,811125,-774916.38,41640,Loss
+Small Business,France,VTT,Medium,959,250,300,287700,20139,267561,239750,27811,41671,Profit
+Small Business,Mexico,VTT,Medium,2747,250,300,824100,57687,766413,686750,79663,41671,Profit
+Enterprise,Canada,Amarilla,Medium,1645,260,125,205625,14393.75,191231.25,427700,-236468.75,41760,Loss
+Government,France,Amarilla,Medium,2876,260,350,1006600,70462,936138,747760,188378,41883,Profit
+Enterprise,Germany,Amarilla,Medium,994,260,125,124250,8697.5,115552.5,258440,-142887.5,41518,Loss
+Government,Canada,Amarilla,Medium,1118,260,20,22360,1565.2,20794.8,290680,-269885.2,41944,Loss
+Small Business,United States of America,Amarilla,Medium,1372,260,300,411600,28812,382788,356720,26068,41974,Profit
+Government,Canada,Montana,Medium,488,5,7,3416,273.28,3142.72,2440,702.72,41671,Profit
+Government,United States of America,Montana,Medium,1282,5,20,25640,2051.2,23588.8,6410,17178.8,41791,Profit
+Government,Canada,Paseo,Medium,257,10,7,1799,143.92,1655.08,2570,-914.92,41760,Loss
+Government,United States of America,Amarilla,Medium,1282,260,20,25640,2051.2,23588.8,333320,-309731.2,41791,Loss
+Enterprise,Mexico,Carretera,Medium,1540,3,125,192500,15400,177100,4620,172480,41852,Profit
+Midmarket,France,Carretera,Medium,490,3,15,7350,588,6762,1470,5292,41944,Profit
+Government,Mexico,Carretera,Medium,1362,3,350,476700,38136,438564,4086,434478,41974,Profit
+Midmarket,France,Montana,Medium,2501,5,15,37515,3001.2,34513.8,12505,22008.8,41699,Profit
+Government,Canada,Montana,Medium,708,5,20,14160,1132.8,13027.2,3540,9487.2,41791,Profit
+Government,Germany,Montana,Medium,645,5,20,12900,1032,11868,3225,8643,41821,Profit
+Small Business,France,Montana,Medium,1562,5,300,468600,37488,431112,7810,423302,41852,Profit
+Small Business,Canada,Montana,Medium,1283,5,300,384900,30792,354108,6415,347693,41518,Profit
+Midmarket,Germany,Montana,Medium,711,5,15,10665,853.2,9811.8,3555,6256.8,41974,Profit
+Enterprise,Mexico,Paseo,Medium,1114,10,125,139250,11140,128110,11140,116970,41699,Profit
+Government,Germany,Paseo,Medium,1259,10,7,8813,705.04,8107.96,12590,-4482.04,41730,Loss
+Government,Germany,Paseo,Medium,1095,10,7,7665,613.2,7051.8,10950,-3898.2,41760,Loss
+Government,Germany,Paseo,Medium,1366,10,20,27320,2185.6,25134.4,13660,11474.4,41791,Profit
+Small Business,Mexico,Paseo,Medium,2460,10,300,738000,59040,678960,24600,654360,41791,Profit
+Government,United States of America,Paseo,Medium,678,10,7,4746,379.68,4366.32,6780,-2413.68,41852,Loss
+Government,Germany,Paseo,Medium,1598,10,7,11186,894.88,10291.12,15980,-5688.88,41852,Loss
+Government,Germany,Paseo,Medium,2409,10,7,16863,1349.04,15513.96,24090,-8576.04,41518,Loss
+Government,Germany,Paseo,Medium,1934,10,20,38680,3094.4,35585.6,19340,16245.6,41883,Profit
+Government,Mexico,Paseo,Medium,2993,10,20,59860,4788.8,55071.2,29930,25141.2,41883,Profit
+Government,Germany,Paseo,Medium,2146,10,350,751100,60088,691012,21460,669552,41579,Profit
+Government,Mexico,Paseo,Medium,1946,10,7,13622,1089.76,12532.24,19460,-6927.76,41609,Loss
+Government,Mexico,Paseo,Medium,1362,10,350,476700,38136,438564,13620,424944,41974,Profit
+Channel Partners,Canada,Velo,Medium,598,120,12,7176,574.08,6601.92,71760,-65158.08,41699,Loss
+Government,United States of America,Velo,Medium,2907,120,7,20349,1627.92,18721.08,348840,-330118.92,41791,Loss
+Government,Germany,Velo,Medium,2338,120,7,16366,1309.28,15056.72,280560,-265503.28,41791,Loss
+Small Business,France,Velo,Medium,386,120,300,115800,9264,106536,46320,60216,41579,Profit
+Small Business,Mexico,Velo,Medium,635,120,300,190500,15240,175260,76200,99060,41974,Profit
+Government,France,VTT,Medium,574.5,250,350,201075,16086,184989,143625,41364,41730,Profit
+Government,Germany,VTT,Medium,2338,250,7,16366,1309.28,15056.72,584500,-569443.28,41791,Loss
+Government,France,VTT,Medium,381,250,350,133350,10668,122682,95250,27432,41852,Profit
+Government,Germany,VTT,Medium,422,250,350,147700,11816,135884,105500,30384,41852,Profit
+Small Business,Canada,VTT,Medium,2134,250,300,640200,51216,588984,533500,55484,41883,Profit
+Small Business,United States of America,VTT,Medium,808,250,300,242400,19392,223008,202000,21008,41609,Profit
+Government,Canada,Amarilla,Medium,708,260,20,14160,1132.8,13027.2,184080,-171052.8,41791,Loss
+Government,United States of America,Amarilla,Medium,2907,260,7,20349,1627.92,18721.08,755820,-737098.92,41791,Loss
+Government,Germany,Amarilla,Medium,1366,260,20,27320,2185.6,25134.4,355160,-330025.6,41791,Loss
+Small Business,Mexico,Amarilla,Medium,2460,260,300,738000,59040,678960,639600,39360,41791,Profit
+Government,Germany,Amarilla,Medium,1520,260,20,30400,2432,27968,395200,-367232,41944,Loss
+Midmarket,Germany,Amarilla,Medium,711,260,15,10665,853.2,9811.8,184860,-175048.2,41974,Loss
+Channel Partners,Mexico,Amarilla,Medium,1375,260,12,16500,1320,15180,357500,-342320,41609,Loss
+Small Business,Mexico,Amarilla,Medium,635,260,300,190500,15240,175260,165100,10160,41974,Profit
+Government,United States of America,VTT,Medium,436.5,250,20,8730,698.4,8031.6,109125,-101093.4,41821,Loss
+Small Business,Canada,Carretera,Medium,1094,3,300,328200,29538,298662,3282,295380,41791,Profit
+Channel Partners,Mexico,Carretera,Medium,367,3,12,4404,396.36,4007.64,1101,2906.64,41548,Profit
+Small Business,Canada,Montana,Medium,3802.5,5,300,1140750,102667.5,1038082.5,19012.5,1019070,41730,Profit
+Government,France,Montana,Medium,1666,5,350,583100,52479,530621,8330,522291,41760,Profit
+Small Business,France,Montana,Medium,322,5,300,96600,8694,87906,1610,86296,41518,Profit
+Channel Partners,Canada,Montana,Medium,2321,5,12,27852,2506.68,25345.32,11605,13740.32,41944,Profit
+Enterprise,France,Montana,Medium,1857,5,125,232125,20891.25,211233.75,9285,201948.75,41579,Profit
+Government,Canada,Montana,Medium,1611,5,7,11277,1014.93,10262.07,8055,2207.07,41609,Profit
+Enterprise,United States of America,Montana,Medium,2797,5,125,349625,31466.25,318158.75,13985,304173.75,41974,Profit
+Small Business,Germany,Montana,Medium,334,5,300,100200,9018,91182,1670,89512,41609,Profit
+Small Business,Mexico,Paseo,Medium,2565,10,300,769500,69255,700245,25650,674595,41640,Profit
+Government,Mexico,Paseo,Medium,2417,10,350,845950,76135.5,769814.5,24170,745644.5,41640,Profit
+Midmarket,United States of America,Paseo,Medium,3675,10,15,55125,4961.25,50163.75,36750,13413.75,41730,Profit
+Small Business,Canada,Paseo,Medium,1094,10,300,328200,29538,298662,10940,287722,41791,Profit
+Midmarket,France,Paseo,Medium,1227,10,15,18405,1656.45,16748.55,12270,4478.55,41913,Profit
+Channel Partners,Mexico,Paseo,Medium,367,10,12,4404,396.36,4007.64,3670,337.64,41548,Profit
+Small Business,France,Paseo,Medium,1324,10,300,397200,35748,361452,13240,348212,41944,Profit
+Channel Partners,Germany,Paseo,Medium,1775,10,12,21300,1917,19383,17750,1633,41579,Profit
+Enterprise,United States of America,Paseo,Medium,2797,10,125,349625,31466.25,318158.75,27970,290188.75,41974,Profit
+Midmarket,Mexico,Velo,Medium,245,120,15,3675,330.75,3344.25,29400,-26055.75,41760,Loss
+Small Business,Canada,Velo,Medium,3793.5,120,300,1138050,102424.5,1035625.5,455220,580405.5,41821,Profit
+Government,Germany,Velo,Medium,1307,120,350,457450,41170.5,416279.5,156840,259439.5,41821,Profit
+Enterprise,Canada,Velo,Medium,567,120,125,70875,6378.75,64496.25,68040,-3543.75,41883,Loss
+Enterprise,Mexico,Velo,Medium,2110,120,125,263750,23737.5,240012.5,253200,-13187.5,41883,Loss
+Government,Canada,Velo,Medium,1269,120,350,444150,39973.5,404176.5,152280,251896.5,41913,Profit
+Channel Partners,United States of America,VTT,Medium,1956,250,12,23472,2112.48,21359.52,489000,-467640.48,41640,Loss
+Small Business,Germany,VTT,Medium,2659,250,300,797700,71793,725907,664750,61157,41671,Profit
+Government,United States of America,VTT,Medium,1351.5,250,350,473025,42572.25,430452.75,337875,92577.75,41730,Profit
+Channel Partners,Germany,VTT,Medium,880,250,12,10560,950.4,9609.6,220000,-210390.4,41760,Loss
+Small Business,United States of America,VTT,Medium,1867,250,300,560100,50409,509691,466750,42941,41883,Profit
+Channel Partners,France,VTT,Medium,2234,250,12,26808,2412.72,24395.28,558500,-534104.72,41518,Loss
+Midmarket,France,VTT,Medium,1227,250,15,18405,1656.45,16748.55,306750,-290001.45,41913,Loss
+Enterprise,Mexico,VTT,Medium,877,250,125,109625,9866.25,99758.75,219250,-119491.25,41944,Loss
+Government,United States of America,Amarilla,Medium,2071,260,350,724850,65236.5,659613.5,538460,121153.5,41883,Profit
+Government,Canada,Amarilla,Medium,1269,260,350,444150,39973.5,404176.5,329940,74236.5,41913,Profit
+Midmarket,Germany,Amarilla,Medium,970,260,15,14550,1309.5,13240.5,252200,-238959.5,41579,Loss
+Government,Mexico,Amarilla,Medium,1694,260,20,33880,3049.2,30830.8,440440,-409609.2,41944,Loss
+Government,Germany,Carretera,Medium,663,3,20,13260,1193.4,12066.6,1989,10077.6,41760,Profit
+Government,Canada,Carretera,Medium,819,3,7,5733,515.97,5217.03,2457,2760.03,41821,Profit
+Channel Partners,Germany,Carretera,Medium,1580,3,12,18960,1706.4,17253.6,4740,12513.6,41883,Profit
+Government,Mexico,Carretera,Medium,521,3,7,3647,328.23,3318.77,1563,1755.77,41974,Profit
+Government,United States of America,Paseo,Medium,973,10,20,19460,1751.4,17708.6,9730,7978.6,41699,Profit
+Government,Mexico,Paseo,Medium,1038,10,20,20760,1868.4,18891.6,10380,8511.6,41791,Profit
+Government,Germany,Paseo,Medium,360,10,7,2520,226.8,2293.2,3600,-1306.8,41913,Loss
+Channel Partners,France,Velo,Medium,1967,120,12,23604,2124.36,21479.64,236040,-214560.36,41699,Loss
+Midmarket,Mexico,Velo,Medium,2628,120,15,39420,3547.8,35872.2,315360,-279487.8,41730,Loss
+Government,Germany,VTT,Medium,360,250,7,2520,226.8,2293.2,90000,-87706.8,41913,Loss
+Government,France,VTT,Medium,2682,250,20,53640,4827.6,48812.4,670500,-621687.6,41579,Loss
+Government,Mexico,VTT,Medium,521,250,7,3647,328.23,3318.77,130250,-126931.23,41974,Loss
+Government,Mexico,Amarilla,Medium,1038,260,20,20760,1868.4,18891.6,269880,-250988.4,41791,Loss
+Midmarket,Canada,Amarilla,Medium,1630.5,260,15,24457.5,2201.175,22256.325,423930,-401673.675,41821,Loss
+Channel Partners,France,Amarilla,Medium,306,260,12,3672,330.48,3341.52,79560,-76218.48,41609,Loss
+Channel Partners,United States of America,Carretera,High,386,3,12,4632,463.2,4168.8,1158,3010.8,41548,Profit
+Government,United States of America,Montana,High,2328,5,7,16296,1629.6,14666.4,11640,3026.4,41883,Profit
+Channel Partners,United States of America,Paseo,High,386,10,12,4632,463.2,4168.8,3860,308.8,41548,Profit
+Enterprise,United States of America,Carretera,High,3445.5,3,125,430687.5,43068.75,387618.75,10336.5,377282.25,41730,Profit
+Enterprise,France,Carretera,High,1482,3,125,185250,18525,166725,4446,162279,41609,Profit
+Government,United States of America,Montana,High,2313,5,350,809550,80955,728595,11565,717030,41760,Profit
+Enterprise,United States of America,Montana,High,1804,5,125,225500,22550,202950,9020,193930,41579,Profit
+Midmarket,France,Montana,High,2072,5,15,31080,0,27972,10360,17612,41974,Profit
+Government,France,Paseo,High,1954,10,20,39080,3908,35172,19540,15632,41699,Profit
+Small Business,Mexico,Paseo,High,591,10,300,177300,17730,159570,5910,153660,41760,Profit
+Midmarket,France,Paseo,High,2167,10,15,32505,3250.5,29254.5,21670,7584.5,41548,Profit
+Government,Germany,Paseo,High,241,10,20,4820,482,4338,2410,1928,41913,Profit
+Midmarket,Germany,Velo,High,681,120,15,10215,1021.5,9193.5,81720,-72526.5,41640,Loss
+Midmarket,Germany,Velo,High,510,120,15,7650,765,6885,61200,-54315,41730,Loss
+Midmarket,United States of America,Velo,High,790,120,15,11850,1185,10665,94800,-84135,41760,Loss
+Government,France,Velo,High,639,120,350,223650,22365,201285,76680,124605,41821,Profit
+Enterprise,United States of America,Velo,High,1596,120,125,199500,19950,179550,191520,-11970,41883,Loss
+Small Business,United States of America,Velo,High,2294,120,300,688200,68820,619380,275280,344100,41548,Profit
+Government,Germany,Velo,High,241,120,20,4820,482,4338,28920,-24582,41913,Loss
+Government,Germany,Velo,High,2665,120,7,18655,1865.5,16789.5,319800,-303010.5,41944,Loss
+Enterprise,Canada,Velo,High,1916,120,125,239500,23950,215550,229920,-14370,41609,Loss
+Small Business,France,Velo,High,853,120,300,255900,25590,230310,102360,127950,41974,Profit
+Enterprise,Mexico,VTT,High,341,250,125,42625,4262.5,38362.5,85250,-46887.5,41760,Loss
+Midmarket,Mexico,VTT,High,641,250,15,9615,961.5,8653.5,160250,-151596.5,41821,Loss
+Government,United States of America,VTT,High,2807,250,350,982450,98245,884205,701750,182455,41852,Profit
+Small Business,Mexico,VTT,High,432,250,300,129600,12960,116640,108000,8640,41883,Profit
+Small Business,United States of America,VTT,High,2294,250,300,688200,68820,619380,573500,45880,41548,Profit
+Midmarket,France,VTT,High,2167,250,15,32505,3250.5,29254.5,541750,-512495.5,41548,Loss
+Enterprise,Canada,VTT,High,2529,250,125,316125,31612.5,284512.5,632250,-347737.5,41944,Loss
+Government,Germany,VTT,High,1870,250,350,654500,65450,589050,467500,121550,41609,Profit
+Enterprise,United States of America,Amarilla,High,579,260,125,72375,7237.5,65137.5,150540,-85402.5,41640,Loss
+Government,Canada,Amarilla,High,2240,260,350,784000,78400,705600,582400,123200,41671,Profit
+Small Business,United States of America,Amarilla,High,2993,260,300,897900,89790,808110,778180,29930,41699,Profit
+Channel Partners,Canada,Amarilla,High,3520.5,260,12,42246,4224.6,38021.4,915330,-877308.6,41730,Loss
+Government,Mexico,Amarilla,High,2039,260,20,40780,4078,36702,530140,-493438,41760,Loss
+Channel Partners,Germany,Amarilla,High,2574,260,12,30888,3088.8,27799.2,669240,-641440.8,41852,Loss
+Government,Canada,Amarilla,High,707,260,350,247450,24745,222705,183820,38885,41883,Profit
+Midmarket,France,Amarilla,High,2072,260,15,31080,0,27972,538720,-510748,41974,Loss
+Small Business,France,Amarilla,High,853,260,300,255900,25590,230310,221780,8530,41974,Profit
+Channel Partners,France,Carretera,High,1198,3,12,14376,1581.36,12794.64,3594,9200.64,41548,Profit
+Government,France,Paseo,High,2532,10,7,17724,1949.64,15774.36,25320,-9545.64,41730,Loss
+Channel Partners,France,Paseo,High,1198,10,12,14376,1581.36,12794.64,11980,814.64,41548,Profit
+Midmarket,Canada,Velo,High,384,120,15,5760,633.6,5126.4,46080,-40953.6,41640,Loss
+Channel Partners,Germany,Velo,High,472,120,12,5664,623.04,5040.96,56640,-51599.04,41913,Loss
+Government,United States of America,VTT,High,1579,250,7,11053,1215.83,9837.17,394750,-384912.83,41699,Loss
+Channel Partners,Mexico,VTT,High,1005,250,12,12060,1326.6,10733.4,251250,-240516.6,41518,Loss
+Midmarket,United States of America,Amarilla,High,3199.5,260,15,47992.5,5279.175,42713.325,831870,-789156.675,41821,Loss
+Channel Partners,Germany,Amarilla,High,472,260,12,5664,623.04,5040.96,122720,-117679.04,41913,Loss
+Channel Partners,Canada,Carretera,High,1937,3,12,23244,2556.84,20687.16,5811,14876.16,41671,Profit
+Government,Germany,Carretera,High,792,3,350,277200,30492,246708,2376,244332,41699,Profit
+Small Business,Germany,Carretera,High,2811,3,300,843300,92763,750537,8433,742104,41821,Profit
+Enterprise,France,Carretera,High,2441,3,125,305125,33563.75,271561.25,7323,264238.25,41913,Profit
+Midmarket,Canada,Carretera,High,1560,3,15,23400,2574,20826,4680,16146,41579,Profit
+Government,Mexico,Carretera,High,2706,3,7,18942,2083.62,16858.38,8118,8740.38,41579,Profit
+Government,Germany,Montana,High,766,5,350,268100,29491,238609,3830,234779,41640,Profit
+Government,Germany,Montana,High,2992,5,20,59840,6582.4,53257.6,14960,38297.6,41548,Profit
+Midmarket,Mexico,Montana,High,2157,5,15,32355,3559.05,28795.95,10785,18010.95,41974,Profit
+Small Business,Canada,Paseo,High,873,10,300,261900,28809,233091,8730,224361,41640,Profit
+Government,Mexico,Paseo,High,1122,10,20,22440,2468.4,19971.6,11220,8751.6,41699,Profit
+Government,Canada,Paseo,High,2104.5,10,350,736575,81023.25,655551.75,21045,634506.75,41821,Profit
+Channel Partners,Canada,Paseo,High,4026,10,12,48312,5314.32,42997.68,40260,2737.68,41821,Profit
+Channel Partners,France,Paseo,High,2425.5,10,12,29106,3201.66,25904.34,24255,1649.34,41821,Profit
+Government,Canada,Paseo,High,2394,10,20,47880,5266.8,42613.2,23940,18673.2,41852,Profit
+Midmarket,Mexico,Paseo,High,1984,10,15,29760,3273.6,26486.4,19840,6646.4,41852,Profit
+Enterprise,France,Paseo,High,2441,10,125,305125,33563.75,271561.25,24410,247151.25,41913,Profit
+Government,Germany,Paseo,High,2992,10,20,59840,6582.4,53257.6,29920,23337.6,41548,Profit
+Small Business,Canada,Paseo,High,1366,10,300,409800,45078,364722,13660,351062,41944,Profit
+Government,France,Velo,High,2805,120,20,56100,6171,49929,336600,-286671,41518,Loss
+Midmarket,Mexico,Velo,High,655,120,15,9825,1080.75,8744.25,78600,-69855.75,41518,Loss
+Government,Mexico,Velo,High,344,120,350,120400,13244,107156,41280,65876,41548,Profit
+Government,Canada,Velo,High,1808,120,7,12656,1392.16,11263.84,216960,-205696.16,41944,Loss
+Channel Partners,France,VTT,High,1734,250,12,20808,2288.88,18519.12,433500,-414980.88,41640,Loss
+Enterprise,Mexico,VTT,High,554,250,125,69250,7617.5,61632.5,138500,-76867.5,41640,Loss
+Government,Canada,VTT,High,2935,250,20,58700,6457,52243,733750,-681507,41579,Loss
+Enterprise,Germany,Amarilla,High,3165,260,125,395625,43518.75,352106.25,822900,-470793.75,41640,Loss
+Government,Mexico,Amarilla,High,2629,260,20,52580,5783.8,46796.2,683540,-636743.8,41640,Loss
+Enterprise,France,Amarilla,High,1433,260,125,179125,19703.75,159421.25,372580,-213158.75,41760,Loss
+Enterprise,Mexico,Amarilla,High,947,260,125,118375,13021.25,105353.75,246220,-140866.25,41518,Loss
+Government,Mexico,Amarilla,High,344,260,350,120400,13244,107156,89440,17716,41548,Profit
+Midmarket,Mexico,Amarilla,High,2157,260,15,32355,3559.05,28795.95,560820,-532024.05,41974,Loss
+Government,United States of America,Paseo,High,380,10,7,2660,292.6,2367.4,3800,-1432.6,41518,Loss
+Government,Mexico,Carretera,High,886,3,350,310100,37212,272888,2658,270230,41791,Profit
+Enterprise,Canada,Carretera,High,2416,3,125,302000,36240,265760,7248,258512,41518,Profit
+Enterprise,Mexico,Carretera,High,2156,3,125,269500,32340,237160,6468,230692,41913,Profit
+Midmarket,Canada,Carretera,High,2689,3,15,40335,4840.2,35494.8,8067,27427.8,41944,Profit
+Midmarket,United States of America,Montana,High,677,5,15,10155,1218.6,8936.4,3385,5551.4,41699,Profit
+Small Business,France,Montana,High,1773,5,300,531900,63828,468072,8865,459207,41730,Profit
+Government,Mexico,Montana,High,2420,5,7,16940,2032.8,14907.2,12100,2807.2,41883,Profit
+Government,Canada,Montana,High,2734,5,7,19138,2296.56,16841.44,13670,3171.44,41913,Profit
+Government,Mexico,Montana,High,1715,5,20,34300,4116,30184,8575,21609,41548,Profit
+Small Business,France,Montana,High,1186,5,300,355800,42696,313104,5930,307174,41609,Profit
+Small Business,United States of America,Paseo,High,3495,10,300,1048500,125820,922680,34950,887730,41640,Profit
+Government,Mexico,Paseo,High,886,10,350,310100,37212,272888,8860,264028,41791,Profit
+Enterprise,Mexico,Paseo,High,2156,10,125,269500,32340,237160,21560,215600,41913,Profit
+Government,Mexico,Paseo,High,905,10,20,18100,2172,15928,9050,6878,41913,Profit
+Government,Mexico,Paseo,High,1715,10,20,34300,4116,30184,17150,13034,41548,Profit
+Government,France,Paseo,High,1594,10,350,557900,66948,490952,15940,475012,41944,Profit
+Small Business,Germany,Paseo,High,1359,10,300,407700,48924,358776,13590,345186,41944,Profit
+Small Business,Mexico,Paseo,High,2150,10,300,645000,77400,567600,21500,546100,41944,Profit
+Government,Mexico,Paseo,High,1197,10,350,418950,50274,368676,11970,356706,41944,Profit
+Midmarket,Mexico,Paseo,High,380,10,15,5700,684,5016,3800,1216,41609,Profit
+Government,Mexico,Paseo,High,1233,10,20,24660,2959.2,21700.8,12330,9370.8,41974,Profit
+Government,Mexico,Velo,High,1395,120,350,488250,58590,429660,167400,262260,41821,Profit
+Government,United States of America,Velo,High,986,120,350,345100,41412,303688,118320,185368,41913,Profit
+Government,Mexico,Velo,High,905,120,20,18100,2172,15928,108600,-92672,41913,Loss
+Channel Partners,Canada,VTT,High,2109,250,12,25308,3036.96,22271.04,527250,-504978.96,41760,Loss
+Midmarket,France,VTT,High,3874.5,250,15,58117.5,6974.1,51143.4,968625,-917481.6,41821,Loss
+Government,Canada,VTT,High,623,250,350,218050,26166,191884,155750,36134,41518,Profit
+Government,United States of America,VTT,High,986,250,350,345100,41412,303688,246500,57188,41913,Profit
+Enterprise,United States of America,VTT,High,2387,250,125,298375,35805,262570,596750,-334180,41944,Loss
+Government,Mexico,VTT,High,1233,250,20,24660,2959.2,21700.8,308250,-286549.2,41974,Loss
+Government,United States of America,Amarilla,High,270,260,350,94500,11340,83160,70200,12960,41671,Profit
+Government,France,Amarilla,High,3421.5,260,7,23950.5,2874.06,21076.44,889590,-868513.56,41821,Loss
+Government,Canada,Amarilla,High,2734,260,7,19138,2296.56,16841.44,710840,-693998.56,41913,Loss
+Midmarket,United States of America,Amarilla,High,2548,260,15,38220,4586.4,33633.6,662480,-628846.4,41579,Loss
+Government,France,Carretera,High,2521.5,3,20,50430,6051.6,44378.4,7564.5,36813.9,41640,Profit
+Channel Partners,Mexico,Montana,High,2661,5,12,31932,3831.84,28100.16,13305,14795.16,41760,Profit
+Government,Germany,Paseo,High,1531,10,20,30620,3674.4,26945.6,15310,11635.6,41974,Profit
+Government,France,VTT,High,1491,250,7,10437,1252.44,9184.56,372750,-363565.44,41699,Loss
+Government,Germany,VTT,High,1531,250,20,30620,3674.4,26945.6,382750,-355804.4,41974,Loss
+Channel Partners,Canada,Amarilla,High,2761,260,12,33132,3975.84,29156.16,717860,-688703.84,41518,Loss
+Midmarket,United States of America,Carretera,High,2567,3,15,38505,5005.65,33499.35,7701,25798.35,41791,Profit
+Midmarket,United States of America,VTT,High,2567,250,15,38505,5005.65,33499.35,641750,-608250.65,41791,Loss
+Government,Canada,Carretera,High,923,3,350,323050,41996.5,281053.5,2769,278284.5,41699,Profit
+Government,France,Carretera,High,1790,3,350,626500,81445,545055,5370,539685,41699,Profit
+Government,Germany,Carretera,High,442,3,20,8840,1149.2,7690.8,1326,6364.8,41518,Profit
+Government,United States of America,Montana,High,982.5,5,350,343875,44703.75,299171.25,4912.5,294258.75,41640,Profit
+Government,United States of America,Montana,High,1298,5,7,9086,1181.18,7904.82,6490,1414.82,41671,Profit
+Channel Partners,Mexico,Montana,High,604,5,12,7248,942.24,6305.76,3020,3285.76,41791,Profit
+Government,Mexico,Montana,High,2255,5,20,45100,5863,39237,11275,27962,41821,Profit
+Government,Canada,Montana,High,1249,5,20,24980,3247.4,21732.6,6245,15487.6,41913,Profit
+Government,United States of America,Paseo,High,1438.5,10,7,10069.5,1309.035,8760.465,14385,-5624.535,41640,Loss
+Small Business,Germany,Paseo,High,807,10,300,242100,31473,210627,8070,202557,41640,Profit
+Government,United States of America,Paseo,High,2641,10,20,52820,6866.6,45953.4,26410,19543.4,41671,Profit
+Government,Germany,Paseo,High,2708,10,20,54160,7040.8,47119.2,27080,20039.2,41671,Profit
+Government,Canada,Paseo,High,2632,10,350,921200,119756,801444,26320,775124,41791,Profit
+Enterprise,Canada,Paseo,High,1583,10,125,197875,25723.75,172151.25,15830,156321.25,41791,Profit
+Channel Partners,Mexico,Paseo,High,571,10,12,6852,890.76,5961.24,5710,251.24,41821,Profit
+Government,France,Paseo,High,2696,10,7,18872,2453.36,16418.64,26960,-10541.36,41852,Loss
+Midmarket,Canada,Paseo,High,1565,10,15,23475,3051.75,20423.25,15650,4773.25,41913,Profit
+Government,Canada,Paseo,High,1249,10,20,24980,3247.4,21732.6,12490,9242.6,41913,Profit
+Government,Germany,Paseo,High,357,10,350,124950,16243.5,108706.5,3570,105136.5,41944,Profit
+Channel Partners,Germany,Paseo,High,1013,10,12,12156,1580.28,10575.72,10130,445.72,41974,Profit
+Midmarket,France,Velo,High,3997.5,120,15,59962.5,7795.125,52167.375,479700,-427532.625,41640,Loss
+Government,Canada,Velo,High,2632,120,350,921200,119756,801444,315840,485604,41791,Profit
+Government,France,Velo,High,1190,120,7,8330,1082.9,7247.1,142800,-135552.9,41791,Loss
+Channel Partners,Mexico,Velo,High,604,120,12,7248,942.24,6305.76,72480,-66174.24,41791,Loss
+Midmarket,Germany,Velo,High,660,120,15,9900,1287,8613,79200,-70587,41518,Loss
+Channel Partners,Mexico,Velo,High,410,120,12,4920,639.6,4280.4,49200,-44919.6,41913,Loss
+Small Business,Mexico,Velo,High,2605,120,300,781500,101595,679905,312600,367305,41579,Profit
+Channel Partners,Germany,Velo,High,1013,120,12,12156,1580.28,10575.72,121560,-110984.28,41974,Loss
+Enterprise,Canada,VTT,High,1583,250,125,197875,25723.75,172151.25,395750,-223598.75,41791,Loss
+Midmarket,Canada,VTT,High,1565,250,15,23475,3051.75,20423.25,391250,-370826.75,41913,Loss
+Enterprise,Canada,Amarilla,High,1659,260,125,207375,26958.75,180416.25,431340,-250923.75,41640,Loss
+Government,France,Amarilla,High,1190,260,7,8330,1082.9,7247.1,309400,-302152.9,41791,Loss
+Channel Partners,Mexico,Amarilla,High,410,260,12,4920,639.6,4280.4,106600,-102319.6,41913,Loss
+Channel Partners,Germany,Amarilla,High,1770,260,12,21240,2761.2,18478.8,460200,-441721.2,41609,Loss
+Government,Mexico,Carretera,High,2579,3,20,51580,7221.2,44358.8,7737,36621.8,41730,Profit
+Government,United States of America,Carretera,High,1743,3,20,34860,4880.4,29979.6,5229,24750.6,41760,Profit
+Government,United States of America,Carretera,High,2996,3,7,20972,2936.08,18035.92,8988,9047.92,41548,Profit
+Government,Germany,Carretera,High,280,3,7,1960,274.4,1685.6,840,845.6,41974,Profit
+Government,France,Montana,High,293,5,7,2051,287.14,1763.86,1465,298.86,41671,Profit
+Government,United States of America,Montana,High,2996,5,7,20972,2936.08,18035.92,14980,3055.92,41548,Profit
+Midmarket,Germany,Paseo,High,278,10,15,4170,583.8,3586.2,2780,806.2,41671,Profit
+Government,Canada,Paseo,High,2428,10,20,48560,6798.4,41761.6,24280,17481.6,41699,Profit
+Midmarket,United States of America,Paseo,High,1767,10,15,26505,3710.7,22794.3,17670,5124.3,41883,Profit
+Channel Partners,France,Paseo,High,1393,10,12,16716,2340.24,14375.76,13930,445.76,41913,Profit
+Government,Germany,VTT,High,280,250,7,1960,274.4,1685.6,70000,-68314.4,41974,Loss
+Channel Partners,France,Amarilla,High,1393,260,12,16716,2340.24,14375.76,362180,-347804.24,41913,Loss
+Channel Partners,United States of America,Amarilla,High,2015,260,12,24180,3385.2,20794.8,523900,-503105.2,41609,Loss
+Small Business,Mexico,Carretera,High,801,3,300,240300,33642,206658,2403,204255,41821,Profit
+Enterprise,France,Carretera,High,1023,3,125,127875,17902.5,109972.5,3069,106903.5,41518,Profit
+Small Business,Canada,Carretera,High,1496,3,300,448800,62832,385968,4488,381480,41913,Profit
+Small Business,United States of America,Carretera,High,1010,3,300,303000,42420,260580,3030,257550,41913,Profit
+Midmarket,Germany,Carretera,High,1513,3,15,22695,3177.3,19517.7,4539,14978.7,41944,Profit
+Midmarket,Canada,Carretera,High,2300,3,15,34500,4830,29670,6900,22770,41974,Profit
+Enterprise,Mexico,Carretera,High,2821,3,125,352625,49367.5,303257.5,8463,294794.5,41609,Profit
+Government,Canada,Montana,High,2227.5,5,350,779625,109147.5,670477.5,11137.5,659340,41640,Profit
+Government,Germany,Montana,High,1199,5,350,419650,58751,360899,5995,354904,41730,Profit
+Government,Canada,Montana,High,200,5,350,70000,9800,60200,1000,59200,41760,Profit
+Government,Canada,Montana,High,388,5,7,2716,380.24,2335.76,1940,395.76,41883,Profit
+Government,Mexico,Montana,High,1727,5,7,12089,1692.46,10396.54,8635,1761.54,41548,Profit
+Midmarket,Canada,Montana,High,2300,5,15,34500,4830,29670,11500,18170,41974,Profit
+Government,Mexico,Paseo,High,260,10,20,5200,728,4472,2600,1872,41671,Profit
+Midmarket,Canada,Paseo,High,2470,10,15,37050,5187,31863,24700,7163,41518,Profit
+Midmarket,Canada,Paseo,High,1743,10,15,26145,3660.3,22484.7,17430,5054.7,41548,Profit
+Channel Partners,United States of America,Paseo,High,2914,10,12,34968,4895.52,30072.48,29140,932.48,41913,Profit
+Government,France,Paseo,High,1731,10,7,12117,1696.38,10420.62,17310,-6889.38,41913,Loss
+Government,Canada,Paseo,High,700,10,350,245000,34300,210700,7000,203700,41944,Profit
+Channel Partners,Canada,Paseo,High,2222,10,12,26664,3732.96,22931.04,22220,711.04,41579,Profit
+Government,United States of America,Paseo,High,1177,10,350,411950,57673,354277,11770,342507,41944,Profit
+Government,France,Paseo,High,1922,10,350,672700,94178,578522,19220,559302,41579,Profit
+Enterprise,Mexico,Velo,High,1575,120,125,196875,27562.5,169312.5,189000,-19687.5,41671,Loss
+Government,United States of America,Velo,High,606,120,20,12120,1696.8,10423.2,72720,-62296.8,41730,Loss
+Small Business,United States of America,Velo,High,2460,120,300,738000,103320,634680,295200,339480,41821,Profit
+Small Business,Canada,Velo,High,269,120,300,80700,11298,69402,32280,37122,41548,Profit
+Small Business,Germany,Velo,High,2536,120,300,760800,106512,654288,304320,349968,41579,Profit
+Government,Mexico,VTT,High,2903,250,7,20321,2844.94,17476.06,725750,-708273.94,41699,Loss
+Small Business,United States of America,VTT,High,2541,250,300,762300,106722,655578,635250,20328,41852,Profit
+Small Business,Canada,VTT,High,269,250,300,80700,11298,69402,67250,2152,41548,Profit
+Small Business,Canada,VTT,High,1496,250,300,448800,62832,385968,374000,11968,41913,Profit
+Small Business,United States of America,VTT,High,1010,250,300,303000,42420,260580,252500,8080,41913,Profit
+Government,France,VTT,High,1281,250,350,448350,62769,385581,320250,65331,41609,Profit
+Small Business,Canada,Amarilla,High,888,260,300,266400,37296,229104,230880,-1776,41699,Loss
+Enterprise,United States of America,Amarilla,High,2844,260,125,355500,49770,305730,739440,-433710,41760,Loss
+Channel Partners,France,Amarilla,High,2475,260,12,29700,4158,25542,643500,-617958,41852,Loss
+Midmarket,Canada,Amarilla,High,1743,260,15,26145,3660.3,22484.7,453180,-430695.3,41548,Loss
+Channel Partners,United States of America,Amarilla,High,2914,260,12,34968,4895.52,30072.48,757640,-727567.52,41913,Loss
+Government,France,Amarilla,High,1731,260,7,12117,1696.38,10420.62,450060,-439639.38,41913,Loss
+Government,Mexico,Amarilla,High,1727,260,7,12089,1692.46,10396.54,449020,-438623.46,41548,Loss
+Midmarket,Mexico,Amarilla,High,1870,260,15,28050,3927,24123,486200,-462077,41579,Loss
+Enterprise,France,Carretera,High,1174,3,125,146750,22012.5,124737.5,3522,121215.5,41852,Profit
+Enterprise,Germany,Carretera,High,2767,3,125,345875,51881.25,293993.75,8301,285692.75,41852,Profit
+Enterprise,Germany,Carretera,High,1085,3,125,135625,20343.75,115281.25,3255,112026.25,41913,Profit
+Small Business,Mexico,Montana,High,546,5,300,163800,24570,139230,2730,136500,41913,Profit
+Government,Germany,Paseo,High,1158,10,20,23160,3474,19686,11580,8106,41699,Profit
+Midmarket,Canada,Paseo,High,1614,10,15,24210,3631.5,20578.5,16140,4438.5,41730,Profit
+Government,Mexico,Paseo,High,2535,10,7,17745,2661.75,15083.25,25350,-10266.75,41730,Loss
+Government,Mexico,Paseo,High,2851,10,350,997850,149677.5,848172.5,28510,819662.5,41760,Profit
+Midmarket,Canada,Paseo,High,2559,10,15,38385,5757.75,32627.25,25590,7037.25,41852,Profit
+Government,United States of America,Paseo,High,267,10,20,5340,801,4539,2670,1869,41548,Profit
+Enterprise,Germany,Paseo,High,1085,10,125,135625,20343.75,115281.25,10850,104431.25,41913,Profit
+Midmarket,Germany,Paseo,High,1175,10,15,17625,2643.75,14981.25,11750,3231.25,41913,Profit
+Government,United States of America,Paseo,High,2007,10,350,702450,105367.5,597082.5,20070,577012.5,41579,Profit
+Government,Mexico,Paseo,High,2151,10,350,752850,112927.5,639922.5,21510,618412.5,41579,Profit
+Channel Partners,United States of America,Paseo,High,914,10,12,10968,1645.2,9322.8,9140,182.8,41974,Profit
+Government,France,Paseo,High,293,10,20,5860,879,4981,2930,2051,41974,Profit
+Channel Partners,Mexico,Velo,High,500,120,12,6000,900,5100,60000,-54900,41699,Loss
+Midmarket,France,Velo,High,2826,120,15,42390,6358.5,36031.5,339120,-303088.5,41760,Loss
+Enterprise,France,Velo,High,663,120,125,82875,12431.25,70443.75,79560,-9116.25,41883,Loss
+Small Business,United States of America,Velo,High,2574,120,300,772200,115830,656370,308880,347490,41579,Profit
+Enterprise,United States of America,Velo,High,2438,120,125,304750,45712.5,259037.5,292560,-33522.5,41609,Loss
+Channel Partners,United States of America,Velo,High,914,120,12,10968,1645.2,9322.8,109680,-100357.2,41974,Loss
+Government,Canada,VTT,High,865.5,250,20,17310,2596.5,14713.5,216375,-201661.5,41821,Loss
+Midmarket,Germany,VTT,High,492,250,15,7380,1107,6273,123000,-116727,41821,Loss
+Government,United States of America,VTT,High,267,250,20,5340,801,4539,66750,-62211,41548,Loss
+Midmarket,Germany,VTT,High,1175,250,15,17625,2643.75,14981.25,293750,-278768.75,41913,Loss
+Enterprise,Canada,VTT,High,2954,250,125,369250,55387.5,313862.5,738500,-424637.5,41579,Loss
+Enterprise,Germany,VTT,High,552,250,125,69000,10350,58650,138000,-79350,41944,Loss
+Government,France,VTT,High,293,250,20,5860,879,4981,73250,-68269,41974,Loss
+Small Business,France,Amarilla,High,2475,260,300,742500,111375,631125,643500,-12375,41699,Loss
+Small Business,Mexico,Amarilla,High,546,260,300,163800,24570,139230,141960,-2730,41913,Loss
+Government,Mexico,Montana,High,1368,5,7,9576,1436.4,8139.6,6840,1299.6,41671,Profit
+Government,Canada,Paseo,High,723,10,7,5061,759.15,4301.85,7230,-2928.15,41730,Loss
+Channel Partners,United States of America,VTT,High,1806,250,12,21672,3250.8,18421.2,451500,-433078.8,41760,Loss
